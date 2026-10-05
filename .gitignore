@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# 运行日志 (按日期文件, 会持续增长)
+logs/
+gyj0179/logs/
+
+# 临时/调试脚本
+_*.py
