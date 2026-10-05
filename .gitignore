@@ -8,3 +8,7 @@ gyj0179/logs/
 
 # 临时/调试脚本
 _*.py
+
+# 本机运行数据 (含本机串口号/上次连接时间, 且程序运行时会改写)
+# 首次运行前可复制 connection.json.example 为 connection.json
+connection.json

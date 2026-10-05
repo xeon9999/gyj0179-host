@@ -1,0 +1,11 @@
+{
+  "port": "COM3",
+  "baudrate": 115200,
+  "slave_id": 2,
+  "slave_ids": [
+    2
+  ],
+  "addr_min": 1,
+  "addr_max": 16,
+  "timestamp": "2026-01-01 00:00:00"
+}
